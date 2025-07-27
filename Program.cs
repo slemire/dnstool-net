@@ -92,7 +92,7 @@ namespace DnsTool
             }
             else
             {
-                Console.WriteLine("[-] Invalid action. Should be add, modify or delete.");
+                Console.WriteLine("[-] Invalid action. Should be add, modify, delete or view.");
                 return;
             }
         }
